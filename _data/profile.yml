@@ -23,7 +23,7 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
    I am Wentao Shen, a two-year Master student at the College of Intelligent Systems Science and Engineering, 
-   Harbin Engineering University (<a href="https://www.hrbeu.edu.cn/" target="_blank">HEU</a>), majoring in Artificial Intelligence，advised by <a href="https://faculty.hrbeu.edu.cn/FengZhiGuang/zh_CN/zdylm/304357/list/index.htm" target="_blank">Prof.Zhiguang Feng</a>.
+   Harbin Engineering University (<a href="https://www.hrbeu.edu.cn/" target="_blank">HEU</a>), majoring in Artificial Intelligence，advised by <a href="https://faculty.hrbeu.edu.cn/FengZhiGuang/zh_CN/zdylm/304357/list/index.htm" target="_blank">Prof. Zhiguang Feng</a>.
    Before that, I received my B.Eng. degree in Marine Robotics from HEU in 2024.
   </p>
   <p>
@@ -48,8 +48,8 @@ education:
   position: B.S. in Marine Robotics
   date: Sep. 2020 - Jul. 2024
 
-# experience:
-# - name: Peking University
+experience:
+#- name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
