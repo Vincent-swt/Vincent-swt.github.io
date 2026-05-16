@@ -1,7 +1,7 @@
 ---
 title:          "Multi-View Trust-Aware Defense Against Rotation and Permutation Attacks in Federated Knowledge Graph Embedding"
 date:           2026-04-22 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE Transactions on Information Forensics and Security (TIFS)"
 pub_pre:        "Submitted to "
 pub_date:       "2026"

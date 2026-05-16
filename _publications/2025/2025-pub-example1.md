@@ -1,7 +1,7 @@
 ---
 title:          "Data-Driven Based Trajectory Tracking Control of Autonomous Underwater Vehicle via Deep Reinforcement Learning"
 date:           2025-11-04 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE Transactions on Industrial Electronics (TIE)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
