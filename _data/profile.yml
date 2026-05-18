@@ -50,9 +50,9 @@ education:
 
 experience:
 - name: National University of Defense Technology
-logo: /assets/images/badges/NUDT_Social_circle.png
-position: Research Intern
-date: Mar. 2026 – Jun. 2026
+  logo: /assets/images/badges/NUDT_Social_circle
+  position: Research Intern
+  date: Mar. 2026 – Jun. 2026
 
 awards:
 - name: First Prize of Heilongjiang Province in the National College Students' Mathematics Competition
