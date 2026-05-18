@@ -17,7 +17,7 @@ authors:
   - Zhiguang Feng#
   - Peng Shi
 links:
-  Paper: https://www.biorxiv.org
+  Paper: https://www.arxiv.org
   Code: https://github.com
 #  Demo: https://luost26.github.io/bubble-visual-hash
 ---

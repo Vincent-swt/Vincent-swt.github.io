@@ -18,7 +18,7 @@ authors:
   - Zhiguang Feng  
   - Xinwang Liu#
 links:
-  Paper: https://www.biorxiv.org
+  Paper: https://www.arxiv.org
   Code: https://github.com
 #  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
 ---
