@@ -18,6 +18,6 @@ authors:
   - Peng Shi
 links:
   Paper: https://www.arxiv.org
-  Code: https://github.com
+  Video: https://www.youtube.com/watch?v=PH_QMacSHsE
 #  Demo: https://luost26.github.io/bubble-visual-hash
 ---
